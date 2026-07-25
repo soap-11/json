@@ -1,0 +1,12 @@
+{
+	"root2": 1.414,
+	"name": "John",
+	"good": true,
+	"bad": false,
+	"nothing": null,
+	"list": [1, {"a":"b"}, 2],
+	"object": {
+		"name": "cat",
+		"weight": 13,
+	}
+}
